@@ -3,7 +3,7 @@ import { createHash } from 'crypto'
 let Reg = /\|?(.*)([.|] *?)([0-9]*)$/i
 
 // Define la variable canales con la URL correcta
-const canales = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'; // Reemplaza con la URL correcta
+const canales = 'https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429'; // Reemplaza con la URL correcta
 
 let handler = async function (m, { conn, text, usedPrefix, command }) {
   let user = global.db.data.users[m.sender]
