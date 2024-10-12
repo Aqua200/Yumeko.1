@@ -33,7 +33,7 @@ let user = global.db.data.users[who]
 let pushname = m.pushName || 'Sin nombre'
 
 //creador y otros
-global.creador = 'Wa.me/595972157130'
+global.creador = ''
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = ''
 global.namechannel = '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸'
