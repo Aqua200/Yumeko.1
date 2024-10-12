@@ -36,7 +36,7 @@ let pushname = m.pushName || 'Sin nombre'
 global.creador = ''
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = ''
-global.namechannel = '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸'
+global.namechannel = '𝚘𝚏𝚒𝚌𝚒𝚊𝚕 𝚍𝚎 𝚢𝚞𝚖𝚎𝚔𝚘🌸'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
@@ -101,7 +101,7 @@ global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJ
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363344959608845@newsletter', newsletterName: '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸', serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363344959608845@newsletter', newsletterName: '𝚘𝚏𝚒𝚌𝚒𝚊𝚕 𝚍𝚎 𝚢𝚞𝚖𝚎𝚔𝚘🌸', serverMessageId: -1 }
 }}, { quoted: m }
 
 global.icono = [ 
@@ -111,6 +111,6 @@ global.icono = [
 'https://qu.ax/DhraC.jpg'
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363344959608845@newsletter", serverMessageId: 100, newsletterName: '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363344959608845@newsletter", serverMessageId: 100, newsletterName: '𝚘𝚏𝚒𝚌𝚒𝚊𝚕 𝚍𝚎 𝚢𝚞𝚖𝚎𝚔𝚘🌸', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
