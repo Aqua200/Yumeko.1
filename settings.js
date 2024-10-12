@@ -31,9 +31,9 @@ global.prems = []
 global.isBaileysFail = false
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.7'
-global.nameqr = 'Veggeto Bot - MD'
-global.sessions = 'VeggetoSession'
-global.jadi = 'VeggetoJadiBot'
+global.nameqr = '🌹𝚈𝚞𝚖𝚎𝚔𝚘 𝙱𝚘𝚝 - 𝙳𝙼🌸'
+global.sessions = '𝚢𝚞𝚖𝚎𝚔𝚘𝚜𝚎𝚜𝚜𝚒𝚘𝚗🌸'
+global.jadi = '𝚈𝚞𝚖𝚎𝚔𝚘𝚓𝚊𝚍𝚒𝚋𝚘𝚝🌸'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
