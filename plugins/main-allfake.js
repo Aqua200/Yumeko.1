@@ -35,8 +35,8 @@ let pushname = m.pushName || 'Sin nombre'
 //creador y otros
 global.creador = 'Wa.me/595972157130'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'https://wa.me/message/O4QPPHZOFDOJI1'
-global.namechannel = '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕🌸'
+global.asistencia = ''
+global.namechannel = '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
@@ -101,16 +101,16 @@ global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJ
 
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363276986902836@newsletter', newsletterName: '🔮𝘝𝘦𝘨𝘨𝘦𝘵𝘵𝘰-𝘉𝘰𝘵-𝘔𝘋🔮', serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363276986902836@newsletter', newsletterName: '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸', serverMessageId: -1 }
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/cueh.jpg',
-'https://qu.ax/cueh.jpg',
-'https://qu.ax/cueh.jpg',
-'https://qu.ax/cueh.jpg'
+'https://qu.ax/DhraC.jpg',
+'https://qu.ax/DhraC.jpg',
+'https://qu.ax/DhraC.jpg',
+'https://qu.ax/DhraC.jpg'
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363276986902836@newsletter", serverMessageId: 100, newsletterName: '🔮𝘝𝘦𝘨𝘨𝘦𝘵𝘵𝘰-𝘉𝘰𝘵-𝘔𝘋🔮', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363276986902836@newsletter", serverMessageId: 100, newsletterName: '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
