@@ -60,7 +60,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
       externalAdReply: {
         title: '⊱『✅𝆺𝅥 𝗥𝗘𝗚𝗜𝗦𝗧𝗥𝗔𝗗𝗢(𝗔) 𝆹𝅥✅』⊰',
         body: wm, 
-        thumbnailUrl: 'https://qu.ax/cueh.jpg', 
+        thumbnailUrl: 'https://qu.ax/ZFUmO.jpeg', 
         sourceUrl: canales,
         mediaType: 1,
         showAdAttribution: true,
