@@ -15,7 +15,7 @@ let txt = `*乂  S C R I P T  -  M A I N  乂*\n\n`
     txt += `✩  *Stars* : ${json.stargazers_count}\n\n`
     txt += `> *${dev}*`
 
-await conn.sendMessage(m.chat, {text: txt, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: '🔮ᴠᴇɢɢᴇᴛᴛᴏ-ʙᴏᴛ-ᴍᴅ🔮', newsletterJid: "120363276986902836@newsletter", }, externalAdReply: { title: packname, body: dev, thumbnailUrl: 'https://qu.ax/iBgQ.jpg', sourceUrl: yt, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
+await conn.sendMessage(m.chat, {text: txt, contextInfo: { forwardingScore: 999, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterName: '𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸', newsletterJid: "120363276986902836@newsletter", }, externalAdReply: { title: packname, body: dev, thumbnailUrl: 'https://qu.ax/DhraC.jpg', sourceUrl: yt, mediaType: 1, renderLargerThumbnail: true }}}, {quoted: fkontak})
 
 } catch {
 await m.react(error)
