@@ -111,6 +111,6 @@ global.icono = [
 'https://qu.ax/DhraC.jpg'
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363276986902836@newsletter", serverMessageId: 100, newsletterName: '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363344959608845@newsletter", serverMessageId: 100, newsletterName: '🌹𝒀𝒖𝒎𝒆𝒌𝒐𝑩𝒐𝒕-𝑫𝒎🌸', }, externalAdReply: { showAdAttribution: true, title: packname, body: dev, mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
