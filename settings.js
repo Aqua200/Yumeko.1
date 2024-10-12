@@ -59,7 +59,7 @@ global.avatar = fs.readFileSync('./media/avatar_contact.jpg')
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.grupo = 'https://chat.whatsapp.com/EHhI84dKglOIqQcaRKsKOU' 
-global.grupo2 = '' 
+global.grupo2 = 'https://chat.whatsapp.com/Ddy7RqVooxjI69dsIHXGEX'
 global.grupo3 = '' 
 global.grupo4 = '' 
 global.grupo5 = '' 
