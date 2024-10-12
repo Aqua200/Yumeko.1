@@ -58,12 +58,12 @@ global.avatar = fs.readFileSync('./media/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = '' 
+global.grupo = 'https://chat.whatsapp.com/EHhI84dKglOIqQcaRKsKOU' 
 global.grupo2 = '' 
 global.grupo3 = '' 
 global.grupo4 = '' 
 global.grupo5 = '' 
-global.channel = ''
+global.channel = 'https://whatsapp.com/channel/0029VarsCsD545unQ5Lw7429'
 global.channel2 = ''
 global.md = '' 
 global.yt = ''
