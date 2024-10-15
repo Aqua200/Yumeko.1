@@ -6,10 +6,10 @@ let staff = `🌹 *EQUIPO DE AYUDANTES*
 
 👑 *Propietario:*
 
-• Ivan
+• Neykoor
 🌱 *Rol:* Propietario
 🌴 *Número:* ${creador}
-🚩 *GitHub:* https://github.com/Ivanmods15`
+🚩 *GitHub:* https://github.com/Aqua200/Yumeko.1/tree/main`
 await conn.sendFile(m.chat, icons, 'yaemori.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
 'forwardingScore': 200,
